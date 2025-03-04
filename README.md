@@ -2,7 +2,9 @@
 
 This repository contains a **Deep Convolutional Q-Network (DCQN)** implementation using **PyTorch** to train an AI to play **Ms. Pac-Man**. The AI learns by interacting with the game environment through **reinforcement learning**, using **convolutional neural networks (CNNs)** for feature extraction and decision-making.
 
-<video width="640" height="360" controls> <source src="assets/video/pacman_rec.mp4" type="video/mp4"> Your browser does not support the video tag. </video>
+## 🎬 Demo Video
+
+[Click here to watch the Pac-Man gameplay (MP4)](assets/video/pacman_rec.mp4)
 
 ---
 

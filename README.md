@@ -2,6 +2,8 @@
 
 This repository contains a **Deep Convolutional Q-Network (DCQN)** implementation using **PyTorch** to train an AI to play **Ms. Pac-Man**. The AI learns by interacting with the game environment through **reinforcement learning**, using **convolutional neural networks (CNNs)** for feature extraction and decision-making.
 
+<video width="640" height="360" controls> <source src="assets/video/pacman_rec.mp4" type="video/mp4"> Your browser does not support the video tag. </video>
+
 ---
 
 ## 📌 Features
@@ -25,11 +27,9 @@ pip install torch torchvision
 
 ---
 
-<video width="640" height="360" controls> <source src="assets/video/pacman_rec.mp4" type="video/mp4"> Your browser does not support the video tag. </video>
 
----
 
-🏗 Model Architecture
+## 🏗 Model Architecture
 This Deep Q-Learning Agent is built using CNNs to process game frames and predict Q-values.
 
 Neural Network Structure
@@ -47,7 +47,7 @@ Experience Sampling to train on randomized past data.
 
 ---
 
-⚡ Hardware Used for Training
+## ⚡ Hardware Used for Training
 
 💻 CPU: AMD Ryzen 7 7800X3D (8 Cores @ 4.20 GHz)
 🎮 GPU: NVIDIA GEFORCE RTX 4070 Ti Super

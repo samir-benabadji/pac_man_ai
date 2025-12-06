@@ -6,7 +6,7 @@ This repository contains a **Deep Convolutional Q-Network (DCQN)** implementatio
 
 ## Showcase Video
 
-[![Pac-Man AI Gameplay](assets/images/video_thumb.png)](assets/video/pacman_rec.mp4)
+[![Pac-Man AI Gameplay](assets/images/video_thumb.png)](https://www.youtube.com/shorts/7BTtzI-WN70)
 
 > *Click the thumbnail above to watch the trained agent play Ms. Pac-Man!*
 
